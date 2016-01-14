@@ -30,3 +30,17 @@
 * Delivery effectiveness
 * Technical excellence
 * Operational effectiveness
+
+Business value: 我们交付的软件能够给我们的客户带来价值。
+[举例]
+Customer value: 我们交付的软件能够给客户的客户带来价值。
+[举例]
+User experience: 交付软件的易用性。
+[举例]
+Delivery effectiveness: 高效交付。
+[举例]
+Technical excellence: 包括软件的内部和外部质量。外部质量比如功能的正确性以及软件的稳定性，内部质量比如清晰的代码结构，
+测试覆盖率，代码整洁度等。
+[举例]
+Operational effectiveness：高效运维。
+[举例]
