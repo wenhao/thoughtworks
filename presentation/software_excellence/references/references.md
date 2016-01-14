@@ -8,3 +8,4 @@
 8. [Roy's email on "TW Mission, Cultural Imperatives and Values" in 2010](https://thoughtworks.jiveon.com/groups/china/blog/2012/03/30/roys-email-on-tw-mission-cultural-imperatives-and-values-in-2010)
 9. [How to maintain and improve our Value and Culture charastistics](https://thoughtworks.jiveon.com/thread/7982)
 10. [ThoughtWorks Three Pillars: Second Pillar (Software excellence)](https://www.youtube.com/watch?v=Q9Ed2YwUndk)
+11. [为什么ThoughtWorks是一家技术领先的企业？](https://thoughtworks.jiveon.com/groups/china/blog/2012/01/10/%E4%B8%BA%E4%BB%80%E4%B9%88thoughtworks%E6%98%AF%E4%B8%80%E5%AE%B6%E6%8A%80%E6%9C%AF%E9%A2%86%E5%85%88%E7%9A%84%E4%BC%81%E4%B8%9A)
