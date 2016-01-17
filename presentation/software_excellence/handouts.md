@@ -1,12 +1,16 @@
 ##Pillar Two(Champion Software Excellence And Revolutionize The IT Industry)
 
 ### 开场
-今天要给大家讲的是我司的Pillar Two，推动IT变革，追求软件卓越
+今天要给大家讲的是我司的Pillar Two，推动IT变革，追求软件卓越。
+
+大致会于大家探讨两个问题，什么是软件卓越以及如何构筑思想领导力。
 
 这是支撑我们的商业模式的三大核心支柱之一，相对应的是经营可持续的业务(Run a sustainable bussiness)和积极提倡社会和经济公正(advocate passionately for social and economic justice).
 
 ### 提问
-那么有没有人想过为什么我们需要Three Pillars, 或者说为什么我们要把“推动IT变革，追求软件卓越”作为我们的使命呢？
+那么有没有人想过为什么我们需要Three Pillars, Three Pillars 包括哪些呢？Pillar 1 经营可持续的业务，Pillar2 软件卓越， Pillar3 提倡社会和经济公正。现在我们讨论软件卓越，我们可以问问自己为什么我们要把“推动IT变革，追求软件卓越”作为我们的使命呢？
+
+在尝试回答这个问题之前，先给大家讲一个故事：
 
 [故事例证有使命的重要性，引出ThoughtWorks的使命]
 
