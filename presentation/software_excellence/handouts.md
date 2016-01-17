@@ -36,6 +36,14 @@ ThoughtWorks的使命是通过软件创造人类更美好的明天，倡导社�
 第二：推动IT变革，追求软件卓越
 第三：积极提倡社会和经济公正
 
+这是我们的使命。
+
+###软件卓越代表什么(Slide 3)
+是高质量的代码，是完备的自动化，还是什么。
+
+###软件卓越会是多维度的(Slide 4)
+
+
 ### 软件卓越
 那么ThoughtWorks的使命从何而来呢？很早的时候ThoughtWorks人不多，那时候甚至不叫ThoughtWorks,有人知道之前叫什么吗？
 叫Singham Business Service, 直到1990年才被更名为ThoughtWorks。人很少，基本上每个人都能够有机会与Roy大叔说上几句话，
