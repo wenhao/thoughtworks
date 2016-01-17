@@ -58,6 +58,10 @@ ThoughtWorks的使命是通过软件创造人类更美好的明天，倡导社�
 #### Operational effectiveness：高效运维，自动化以及一些列监控措施。
 [举例]
 
+几年前我们并非这样描述我们的使用，以前我们的使命是”推动IT变革，成为世界上知识工作者最好的家”，但是正如Roy说得那样，这并不能完全解析我们的工作。所有现在它变得更为的详细。
+
+###(Slide 6)
+在软件开发过程中，组织的文化，结构及实践的不同是制约每一个维度卓越程度的因素。
 
 ### 软件卓越
 那么ThoughtWorks的使命从何而来呢？很早的时候ThoughtWorks人不多，那时候甚至不叫ThoughtWorks,有人知道之前叫什么吗？
@@ -71,30 +75,6 @@ ThoughtWorks的使命是通过软件创造人类更美好的明天，倡导社�
 最初我们尝试定义了我们能够提供的价值以及公司文化，现在大家在公司官网还能找到这些定义，但是他们并不能很好的诠释我们到底是做什么的。
 之后的两三年，我们这样的描述我们的使命“Revolutionize IT and be a home for the best knowledge workers in the world
 (推动IT变革，成为世界上知识工作者最好的家)”。但是正如Roy说得那样，这并不能完全解析我们的工作。
-
-通过不断的讨论最终才敲定软件卓越作为我们的使命之一，它的内容基本上诠释了我们的工作：
-
-* Business value
-* Customer value
-* User experience
-* Delivery effectiveness
-* Technical excellence
-* Operational effectiveness
-
-Business value: 我们交付的软件能够给我们的客户带来价值。
-[举例]
-Customer value: 我们交付的软件能够给客户的客户带来价值。
-[举例]
-User experience: 交付软件的易用性。
-[举例]
-Delivery effectiveness: 高效交付。
-[举例]
-Technical excellence: 技术上精益求精，包括软件的内部和外部质量。
-外部质量比如功能的正确性以及软件的稳定性，内部质量比如清晰的代码结构，
-测试覆盖率，代码整洁度等。
-[举例]
-Operational effectiveness：高效运维。
-[举例]
 
 ###思想领导力
 
