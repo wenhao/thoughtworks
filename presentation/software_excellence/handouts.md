@@ -43,6 +43,21 @@ ThoughtWorks的使命是通过软件创造人类更美好的明天，倡导社�
 
 ###软件卓越会是多维度的(Slide 4)
 
+###几个维度(Slide 5)
+
+#### Business value: 我们交付的软件能够给我们的客户带来价值。
+[举例]
+#### Customer value: 我们交付的软件能够给客户的客户带来价值。
+[举例]
+#### User experience: 交付软件的易用性。
+[举例]
+#### Delivery effectiveness: 高效交付。
+[举例]
+#### Technical excellence: 技术上精益求精，包括软件的内部和外部质量。外部质量比如功能的正确性以及软件的稳定性，内部质量比如清晰的代码结构，测试覆盖率，代码整洁度等。
+[举例]
+#### Operational effectiveness：高效运维。
+[举例]
+
 
 ### 软件卓越
 那么ThoughtWorks的使命从何而来呢？很早的时候ThoughtWorks人不多，那时候甚至不叫ThoughtWorks,有人知道之前叫什么吗？
@@ -74,7 +89,8 @@ User experience: 交付软件的易用性。
 [举例]
 Delivery effectiveness: 高效交付。
 [举例]
-Technical excellence: 包括软件的内部和外部质量。外部质量比如功能的正确性以及软件的稳定性，内部质量比如清晰的代码结构，
+Technical excellence: 技术上精益求精，包括软件的内部和外部质量。
+外部质量比如功能的正确性以及软件的稳定性，内部质量比如清晰的代码结构，
 测试覆盖率，代码整洁度等。
 [举例]
 Operational effectiveness：高效运维。
