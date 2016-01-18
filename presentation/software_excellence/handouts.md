@@ -92,10 +92,15 @@ ThoughtWorks尽力保持在技术选择上先发制人，客观地评价技术�
 ###思想领导者(Slide 14)
 
 Martin Fowler有人也称他Martin flower，ThoughtWorks首席科学家。在面向对象分析设计、UML、模式、软件开发方法学、XP、重构等方面，都是世界顶级的专家。
+
 Ola Bini(欧拉.比尼)JRuby核心人物
+
 UK首席咨询师Barry O'Reilly(巴里·奥赖利)
+
 Neal Ford(尼尔福特) 《卓有成效的程序员》作者
+
 Hao XU中国区首席科学家
+  
 熊节 《重构》《J2EE核心模式》等图书的翻译
 
 ###开源软件(Slide 15)
